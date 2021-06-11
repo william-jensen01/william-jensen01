@@ -1,7 +1,7 @@
-### Hey There! 👋
-# My name is William. I am currently a student at Lambda School enrolled in their Full Stack Web Development course.
+## Hey There! 👋
+### My name is William. I am currently a student at Lambda School enrolled in their Full Stack Web Development course.
 
-# [LinkedIn](https://www.linkedin.com/in/williambjensen/)
+### [LinkedIn](https://www.linkedin.com/in/williambjensen/)
 
 ## Here is What I'm Working On!
 
