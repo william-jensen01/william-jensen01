@@ -1,5 +1,4 @@
 ## Hello, there. 👋
----
 #### You're looking at a brand new Full Stack Software Developer who attended Lambda School.
 
 - 🔭 I’m currently working on ... Village Book Builders
@@ -13,5 +12,4 @@
 #### [LinkedIn](https://www.linkedin.com/in/williambjensen/)
 #### Portfolio - Under Construction
 
----
 #### First, solve the problem. Then write the code. - John Johnson
