@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hey There! 👋
+# My name is William. I am currently a student at Lambda School enrolled in their Full Stack Web Development course.
 
-<!--
-**william-jensen01/william-jensen01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# [LinkedIn](https://www.linkedin.com/in/williambjensen/)
+
+## Here is What I'm Working On!
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... Village Book Builders
+- 🌱 I’m currently learning ... Django
+- 👯 I’m looking to collaborate on ... bringing your vision to life
+- 💬 Ask me about ... Anything
+- 📫 How to reach me: ... williambjensen01@gmail.com
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... I couldn't talk until 6 years old
 -->
