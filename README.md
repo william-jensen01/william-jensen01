@@ -1,6 +1,6 @@
 ## Hello, there. 👋
 ---
-### You're looking at a brand new Full Stack Software Developer who attended Lambda School.
+#### You're looking at a brand new Full Stack Software Developer who attended Lambda School.
 
 - 🔭 I’m currently working on ... Village Book Builders
 - 🌱 I’m currently learning ... Django
@@ -13,4 +13,4 @@
 ### [LinkedIn](https://www.linkedin.com/in/williambjensen/)
 
 ---
-###### First, solve the problem. Then write the code. - John Johnson
+#### First, solve the problem. Then write the code. - John Johnson
