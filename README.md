@@ -1,8 +1,7 @@
 ## Hello, there. 👋
-#### You're looking at a brand new Full Stack Software Developer who attended Lambda School.
+#### You're looking at a brand new Full Stack Software Developer who graduated from Lambda School.
 
-- 🔭 I’m currently working on ... Village Book Builders
-- 🌱 I’m currently learning ... data structures & algorithms
+- 🔭 I’m currently working on ... Keyboardio
 - 👯 I’m looking to collaborate on ... bringing your vision to life
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... williambjensen01@gmail.com
@@ -10,6 +9,6 @@
 - ⚡ Fun fact: ... I couldn't talk until 6 years old
 
 #### [LinkedIn](https://www.linkedin.com/in/williambjensen/)
-#### Portfolio - Under Construction
+#### [Portfolio](https://williambjensen.com/)
 ---
-#### First, solve the problem. Then write the code. - John Johnson
+#### "Programming isn't about what you know; it's about what you can figure out." - Chris Pine                                
